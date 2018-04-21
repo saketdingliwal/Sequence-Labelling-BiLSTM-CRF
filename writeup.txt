@@ -1,0 +1,6 @@
+I discussed the ideas with Aman Agarwal (2015CS10210), Rahul Agarwal (2015CS10247), Shivanshu Gupta (the scrapped json files).
+The train code is in crf.py in the same folder.
+
+I first used the idea of lstm + crf -> 0.60 achieved
+then crf_suite from sklearn -> 0.65 achieved
+with features -> 0.71 achieved
